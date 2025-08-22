@@ -1,0 +1,150 @@
+{
+  "Metadata": {
+    "title": "Inicializador SaaS Next.js",
+    "description": "Comece rapidamente com Next.js, Postgres(Prisma) e Stripe."
+  },
+  "HomePage": {
+    "title": "Construa Seu SaaS",
+    "subtitle": "Mais Rápido Que Nunca",
+    "description": "Lance seu produto SaaS em tempo recorde com nosso template poderoso e pronto para usar. Repleto de tecnologias modernas e integrações essenciais.",
+    "deployButton": "Implante o seu próprio",
+    "features": {
+      "title": "Recursos",
+      "description": "Tudo que você precisa para construir seu produto SaaS",
+      "nextjs": {
+        "title": "Next.js e React",
+        "description": "Aproveite o poder das tecnologias web modernas para performance otimizada e experiência do desenvolvedor."
+      },
+      "database": {
+        "title": "Postgres e Prisma ORM",
+        "description": "Solução robusta de banco de dados com um ORM intuitivo para gerenciamento eficiente de dados e escalabilidade."
+      },
+      "stripe": {
+        "title": "Integração Stripe",
+        "description": "Processamento de pagamentos e gerenciamento de assinaturas sem problemas com integração Stripe líder da indústria."
+      }
+    },
+    "callToAction": {
+      "title": "Pronto para lançar seu SaaS?",
+      "description": "Nosso template fornece tudo que você precisa para colocar seu SaaS em funcionamento rapidamente. Não perca tempo com código padrão - foque no que torna seu produto único.",
+      "button": "Ver o código"
+    },
+    "about": "Ir para a página sobre"
+  },
+  "Layout": {
+    "header": {
+      "pricing": "Preços",
+      "dashboard": "Painel",
+      "signOut": "Sair",
+      "signUp": "Cadastrar-se"
+    }
+  },
+  "Auth": {
+    "signin": {
+      "title": "Entre na sua conta",
+      "email": "Email",
+      "emailPlaceholder": "Digite seu email",
+      "password": "Senha",
+      "passwordPlaceholder": "Digite sua senha",
+      "button": "Entrar",
+      "loading": "Carregando...",
+      "orContinueWith": "Ou continue com",
+      "noAccount": "Não tem uma conta?",
+      "signUpLink": "Cadastre-se"
+    },
+    "signup": {
+      "title": "Crie sua conta",
+      "email": "Email",
+      "emailPlaceholder": "Digite seu email",
+      "password": "Senha",
+      "passwordPlaceholder": "Digite sua senha",
+      "button": "Cadastrar-se",
+      "loading": "Carregando...",
+      "orContinueWith": "Ou continue com",
+      "haveAccount": "Já tem uma conta?",
+      "signInLink": "Entrar"
+    }
+  },
+  "Dashboard": {
+    "layout": {
+      "settings": "Configurações",
+      "toggleSidebar": "Alternar barra lateral",
+      "nav": {
+        "team": "Equipe",
+        "general": "Geral",
+        "activity": "Atividade",
+        "security": "Segurança"
+      }
+    },
+    "general": {
+      "title": "Configurações Gerais",
+      "account": {
+        "title": "Informações da Conta",
+        "name": "Nome",
+        "namePlaceholder": "Digite seu nome",
+        "email": "Email",
+        "emailPlaceholder": "Digite seu email",
+        "button": "Salvar Alterações",
+        "saving": "Salvando..."
+      }
+    },
+    "security": {
+      "title": "Configurações de Segurança",
+      "password": {
+        "title": "Senha",
+        "currentPassword": "Senha Atual",
+        "newPassword": "Nova Senha",
+        "confirmPassword": "Confirmar Nova Senha",
+        "button": "Atualizar Senha",
+        "updating": "Atualizando..."
+      },
+      "deleteAccount": {
+        "title": "Excluir Conta",
+        "description": "A exclusão da conta é irreversível. Por favor, proceda com cautela.",
+        "confirmPassword": "Confirmar Senha",
+        "button": "Excluir Conta",
+        "deleting": "Excluindo..."
+      }
+    },
+    "settings": {
+      "title": "Configurações da Equipe",
+      "subscription": {
+        "title": "Assinatura da Equipe",
+        "currentPlan": "Plano Atual",
+        "billedMonthly": "Cobrado mensalmente",
+        "trialPeriod": "Período de teste",
+        "noSubscription": "Nenhuma assinatura ativa",
+        "manageButton": "Gerenciar Assinatura"
+      },
+      "teamMembers": {
+        "title": "Membros da Equipe",
+        "role": "Função",
+        "removeButton": "Remover",
+        "removingButton": "Removendo..."
+      },
+      "errors": {
+        "noTeam": "Usuário não faz parte de uma equipe",
+        "teamNotFound": "Equipe não encontrada"
+      }
+    },
+    "inviteTeam": {
+      "title": "Convidar Membro da Equipe",
+      "email": {
+        "label": "Email",
+        "placeholder": "Digite o email"
+      },
+      "role": {
+        "label": "Função",
+        "member": "Membro",
+        "owner": "Proprietário"
+      },
+      "button": {
+        "invite": "Convidar Membro",
+        "inviting": "Convidando..."
+      },
+      "permissions": {
+        "ownerOnly": "Você deve ser proprietário da equipe para convidar novos membros."
+      }
+    }
+  }
+}
